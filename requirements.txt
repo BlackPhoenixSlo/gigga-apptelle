@@ -1,4 +1,4 @@
 langchain
-python-dotdev
+python-dotenv
 openai
 python-telegram-bot == 12.8.0
